@@ -1,0 +1,10 @@
+import "@/models/User";
+import "@/models/Post";
+import "@/models/Page";
+import "@/models/Category";
+import "@/models/Tag";
+import "@/models/Series";
+import "@/models/Media";
+import "@/models/Revision";
+import "@/models/AnalyticsEvent";
+import "@/models/Settings";
